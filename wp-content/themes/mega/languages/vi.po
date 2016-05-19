@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mega\n"
+"POT-Creation-Date: 2016-01-23 10:41+0700\n"
+"PO-Revision-Date: 2016-01-23 10:53+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14 404.php:18 search.php:22 search.php:75 search.php:110
+msgid "Page Not Found"
+msgstr "Không tìm thấy trang"
+
+#: 404.php:18 archive.php:28 author.php:18 category.php:19 header.php:151
+#: header.php:167 page-blog-center.php:27 page-blog-fullwidth.php:27
+#: page-blog-medium.php:27 page-blog.php:27 page-woo.php:30 page.php:47
+#: search.php:26 search.php:79 search.php:114 single.php:34 tag.php:20
+#: woocommerce/archive-product.php:29 woocommerce/single-product.php:28
+msgid "Home"
+msgstr "Trang chủ"
+
+#: 404.php:28
+msgid "404"
+msgstr "404"
+
+#: 404.php:30
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable.<br> Please try another search ... "
+msgstr "Trang bạn tìm kiếm có thể đã bị xoá hoặc đổi tên. Hãy tìm kiếm khác …"
+
+#: archive.php:17 archive.php:31
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Lưu trữ hàng ngày: %s"
+
+#: archive.php:19 archive.php:33
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Lưu trữ hàng tháng: %s"
+
+#: archive.php:21 archive.php:35
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Lưu trữ hàng năm: %s"
+
+#: archive.php:23 archive.php:37
+msgid "Blog Archives"
+msgstr "Lưu trữ bài viết"
+
+#: author.php:15 author.php:18
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Lưu trữ tác giả: %s"
+
+#: category.php:15 category.php:19
+msgid "Category : "
+msgstr "Chuyên mục :"
+
+#: comments.php:10
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Bài viết này đã được mật mã bảo vệ. Hãy nhập mật mã để xem."
+
+#: comments.php:17 content-center.php:13 content.php:15 single.php:49
+msgid "No Comment"
+msgstr "Không có bình luận"
+
+#: comments.php:17 content-center.php:13 content.php:15 single.php:49
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: comments.php:17 content-center.php:13 content.php:15 single.php:49
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: comments.php:23
+msgid "Older Comments <span class=\"meta-nav\"> &rarr;</span>"
+msgstr "Cũ hơn <span class=\"meta-nav\"> &rarr;</span>"
+
+#: comments.php:24
+msgid "<span class=\"meta-nav\">&larr;</span> Newer Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Mới hơn"
+
+#: comments.php:66
+msgid "Your Name (*)"
+msgstr "Tên (*)"
+
+#: comments.php:70
+msgid "Your E-Mail (*)"
+msgstr "Email (*)"
+
+#: comments.php:74
+msgid "Your Webpage (*)"
+msgstr "Trang web (*)"
+
+#: comments.php:80
+msgid "Leave Your Comment"
+msgstr "Viết bình luận"
+
+#: comments.php:81
+msgid "Submit Comment"
+msgstr "Gửi"
+
+#: comments.php:84
+msgid "Your Comment (*)"
+msgstr "Nội dung (*)"
+
+#: comments.php:105
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s tại %2$s"
+
+#: comments.php:108
+msgid "Reply"
+msgstr "Trả lời"
+
+#: comments.php:114
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ xét duyệt."
+
+#: content-center.php:31 content-fullwidth.php:28 content.php:35
+msgid "continue reading"
+msgstr "Đọc tiếp"
+
+#: functions.php:454
+msgid "Brand"
+msgstr "Nhãn hiệu"
+
+#: functions.php:481
+msgid "MORE INFO"
+msgstr "Thông tin nhiều "
+
+#: functions.php:482
+msgid "ADDITIONAL INFORMATION"
+msgstr "Thông tin thêm"
+
+#: functions.php:483
+msgid "REVIEW"
+msgstr "Đánh giá"
+
+#: functions.php:513 lib/common_functions.php:46 lib/common_functions.php:71
+msgid "&#8592;"
+msgstr "&#8592;"
+
+#: functions.php:514 lib/common_functions.php:47 lib/common_functions.php:72
+msgid "&#8594;"
+msgstr "&#8594;"
+
+#: lib/widgets.php:389
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Không có menu. <a href=\"%s\">Tạo mới</a>."
+
+#: lib/widgets.php:401 lib/widgets.php:415 lib/widgets.php:429
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Lựa chọn &mdash;"
+
+#: page_builder_widgets.php:778 page_builder_widgets.php:811
+#: page_builder_widgets.php:845 page_builder_widgets.php:914
+msgid "Read More"
+msgstr "Đọc thêm"
+
+#: page_builder_widgets.php:1020
+msgid "View All"
+msgstr "Xem tất cả"
+
+#: search.php:26 search.php:42 search.php:79 search.php:114
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm: %s"
+
+#: search.php:88
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Chúng tôi không tìm thấy. Xin mời hãy tìm kiếm thêm."
+
+#: searchform.php:8
+msgid "Enter your keyword"
+msgstr "Nhập từ khoá"
+
+#: single.php:30 single.php:34
+msgid "Blog"
+msgstr "Bài viết"
+
+#: single.php:75
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: single.php:138
+msgid "Related Posts "
+msgstr "Bài viết liên quan"
+
+#: tag.php:16 tag.php:20
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Lưu trữ thể loại: %s"
+
+#: woocommerce/archive-product.php:25 woocommerce/archive-product.php:29
+msgid "Shop"
+msgstr "Cửa hàng"
+
+#: woocommerce/single-product-reviews.php:40
+msgid "There are no reviews yet."
+msgstr "Không có đánh giá."
+
+#: woocommerce/single-product-reviews.php:53
+msgid "Add a review"
+msgstr "Thêm một đánh giá"
+
+#: woocommerce/single-product-reviews.php:53
+msgid "Be the first to review"
+msgstr "Đánh giá đầu tiên"
+
+#: woocommerce/single-product-reviews.php:54
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Trả lời cho %s"
+
+#: woocommerce/single-product-reviews.php:58
+msgid "Name"
+msgstr "Tên"
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Submit"
+msgstr "Gửi"
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Your Rating"
+msgstr "Điểm số của bạn"
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Rate&hellip;"
+msgstr "Đánh giá&hellip;"
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Perfect"
+msgstr "Tuyệt"
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Good"
+msgstr "Khá"
+
+#: woocommerce/single-product-reviews.php:73
+msgid "Average"
+msgstr "Tạm"
+
+#: woocommerce/single-product-reviews.php:74
+msgid "Not that bad"
+msgstr "không tệ lắm"
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Very Poor"
+msgstr "Quá tệ "
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Your Review"
+msgstr "Đánh giá của bạn"
+
+#: woocommerce/single-product-reviews.php:88
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr "Chỉ khách hàng đã mua mới có thể đánh giá."
+
+#: woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr "Lựa chọn"
+
+#: woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear selection"
+msgstr "Xoá vùng chọn."
+
+#: woocommerce/single-product/add-to-cart/variable.php:93
+msgid "This product is currently out of stock and unavailable."
+msgstr "Sản phẩm đã hết hàng."
+
+#: woocommerce/single-product/meta.php:27
+msgid "SKU:"
+msgstr "SKU:"
+
+#: woocommerce/single-product/meta.php:27
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/single-product/meta.php:31
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Thể loại"
+
+#: woocommerce/single-product/meta.php:33
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Nhãn"
+
+#: woocommerce/single-product/product-attributes.php:29
+msgid "Weight"
+msgstr "Nặng"
+
+#: woocommerce/single-product/product-attributes.php:36
+msgid "Dimensions"
+msgstr "Kích cỡ"
+
+#: woocommerce/single-product/product-image.php:50
+msgid "Placeholder"
+msgstr "Chỗ trống"
+
+#: woocommerce/single-product/rating.php:27
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Đánh giá %s trên 5"
+
+#: woocommerce/single-product/related.php:49
+msgid "Related Products"
+msgstr "Sản phẩm liên quan"
+
+#: woocommerce/single-product/review.php:29
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Đánh giá %d trên 5"
+
+#: woocommerce/single-product/review.php:30
+msgid "out of 5"
+msgstr "trên 5"
+
+#: woocommerce/single-product/review.php:37
+msgid "Your comment is awaiting approval"
+msgstr "Bình luận của bạn đang chờ xét duyệt"
+
+#: woocommerce/single-product/review.php:46
+msgid "verified owner"
+msgstr "Kiểm chứng sở hữu"
+
+#: woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr "Bạn có thể thích&hellip;"
+
+#. Theme Name of the plugin/theme
+msgid "Mega"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://wopethemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Multi Purpose Wordpress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WopeThemes"
+msgstr ""

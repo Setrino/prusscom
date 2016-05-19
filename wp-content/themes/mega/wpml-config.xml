@@ -1,0 +1,20 @@
+<wpml-config>
+	<custom-types>
+		 <custom-type translate="1">portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+		 <taxonomy translate="1">portfolio-category</taxonomy>
+	</taxonomies>
+	<admin-texts>
+	 	<key name="wope-main">
+    		<key name="*"/>
+  		</key>
+  		<key name="wope-header">
+    		<key name="*"/>
+  		</key>
+  		<key name="wope-portfolio">
+    		<key name="*"/>
+  		</key>
+	</admin-texts>
+
+</wpml-config>
