@@ -198,7 +198,7 @@
   border-bottom: 0px solid #fff;
   outline: none;
   text-decoration: none;
-  padding: 0px 10px 0px 10px;
+  padding: 0px 5px 0px 5px;
   line-height: 40px;
   font-weight: normal;
   height: 40px;
@@ -207,16 +207,16 @@
   width: auto;
   display: block;
   color: #fff;
-  text-transform: normal;
+  text-transform: none;
   text-decoration: none;
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
   -webkit-border-radius: 0px 0px 0px 0px;
   -moz-border-radius: 0px 0px 0px 0px;
   -ms-border-radius: 0px 0px 0px 0px;
   -o-border-radius: 0px 0px 0px 0px;
   border-radius: 0px 0px 0px 0px;
   font-family: inherit;
-  font-size: 14px;
+  font-size: 13px;
   cursor: pointer;
 }
 @media only screen and (max-width: 600px) {
@@ -435,7 +435,7 @@
   color: #555;
   font-weight: bold;
   text-decoration: none;
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
   /* Third level menu item */
 }
 #mega-menu-wrap-main-menu #mega-menu-main-menu > li.mega-menu-megamenu > ul.mega-sub-menu > li.mega-menu-item li.mega-menu-item > a.mega-menu-link {
@@ -455,7 +455,7 @@
   color: #666;
   font-weight: normal;
   text-decoration: none;
-  background: transparent;
+  background: rgba(0, 0, 0, 0);
 }
 @media only screen and (max-width: 600px) {
   #mega-menu-wrap-main-menu #mega-menu-main-menu > li.mega-menu-megamenu > ul.mega-sub-menu {
@@ -509,7 +509,7 @@
   padding: 0px 10px 0px 10px;
   line-height: 35px;
   text-decoration: none;
-  text-transform: normal;
+  text-transform: none;
   vertical-align: baseline;
 }
 #mega-menu-wrap-main-menu #mega-menu-main-menu > li.mega-menu-flyout ul.mega-sub-menu li.mega-menu-item:first-child a.mega-menu-link {
@@ -727,4 +727,4 @@
 #mega-menu-wrap-main-menu {
   clear: both;
 }
-/** Thursday 19th of May 2016 06:39:44 PM **/
+/** Friday 20th of May 2016 12:32:33 PM **/
